@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Videry
-- 👀 I’m interested in Web, Java, and C/C++ coding
+- 👋 Hi, I’m @swarties
+- 👀 I’m interested in Web dev, Java, Go and Rust
 - 🌱 I’m currently learning these languages
 - 📫 To reach me :
   - E-Mail: swarties@proton.me
