@@ -1,5 +1,4 @@
 <h1 align="center">
-  Hi, I'm 
   <a href="https://codefolio.app" title="Check out my profile on this website I made">@swarties</a>
 </h1>
 
@@ -23,3 +22,5 @@
     <img src="https://heatmap.shymike.dev?id=64962&timezone=America%2FNew_York&labels=true&theme=catppuccin_dark" alt="Hackatime activity heatmap" width="100%" />
   </a>
 </p>
+
+<p align="right"><sub><em>Written by a human, accelerated by AI.</em></sub></p>
