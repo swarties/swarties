@@ -1,4 +1,5 @@
 <h1 align="center">
+  Hi, I'm 
   <a href="https://codefolio.app" title="Check out my profile on this website I made">@swarties</a>
 </h1>
 
