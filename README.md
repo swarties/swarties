@@ -23,4 +23,8 @@
   </a>
 </p>
 
-<p align="right"><sub><em>Written by a human, accelerated by AI.</em></sub></p>
+<br />
+<p align="right">
+  <sub><em>Written by a human, accelerated by AI.</em></sub><br />
+  <sub><a href="https://git.swarties.dpdns.org/swarties/">Gitea</a> | <a href="https://github.com/swarties">GitHub</a></sub>
+</p>
